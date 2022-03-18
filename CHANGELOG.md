@@ -1,3 +1,12 @@
+## [0.2.2](https://github.com/bugu-pro/umijs-plugin-bugu-ui/compare/v0.2.1...v0.2.2) (2022-03-18)
+
+
+### Features
+
+* 去除commitlint本项目配置，建议添加全局tool，不然影响发布action ([0dc681b](https://github.com/bugu-pro/umijs-plugin-bugu-ui/commit/0dc681b14da564302f26bcb97c54bb6af899181e))
+
+
+
 ## [0.2.1](https://github.com/bugu-pro/umijs-plugin-bugu-ui/compare/v0.2.0...v0.2.1) (2022-03-18)
 
 
