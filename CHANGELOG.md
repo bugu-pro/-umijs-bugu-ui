@@ -1,3 +1,12 @@
+## [0.2.3](https://github.com/bugu-pro/umijs-plugin-bugu-ui/compare/v0.2.2...v0.2.3) (2022-03-18)
+
+
+### Bug Fixes
+
+* npm publish fix ([e252b4a](https://github.com/bugu-pro/umijs-plugin-bugu-ui/commit/e252b4a0513ea4fa12ff90adcd88726ab7c8e12e))
+
+
+
 ## [0.2.2](https://github.com/bugu-pro/umijs-plugin-bugu-ui/compare/v0.2.1...v0.2.2) (2022-03-18)
 
 
