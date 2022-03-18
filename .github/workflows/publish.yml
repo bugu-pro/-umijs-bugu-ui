@@ -18,7 +18,7 @@ jobs:
         NODE_AUTH_TOKEN: ${{secrets.MAC}}
 
   github-release:
-    need: publish
+    needs: publish
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
