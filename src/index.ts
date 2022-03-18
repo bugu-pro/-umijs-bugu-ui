@@ -1,6 +1,4 @@
-import { dirname, join } from "path";
-import { readFileSync } from "fs";
-import { IApi, utils } from "umi";
+import { IApi } from "umi";
 
 export default (api: IApi) => {
   api.modifyBabelPresetOpts((opts) => {
