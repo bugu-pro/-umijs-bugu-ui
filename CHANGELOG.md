@@ -1,3 +1,7 @@
+## [0.1.3](https://github.com/bugu-pro/umijs-plugin-bugu-ui/compare/v0.1.2...v0.1.3) (2022-03-18)
+
+
+
 ## [0.1.2](https://github.com/bugu-pro/umijs-plugin-bugu-ui/compare/v0.1.1...v0.1.2) (2022-03-18)
 
 
