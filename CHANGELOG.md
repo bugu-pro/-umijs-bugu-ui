@@ -1,3 +1,12 @@
+## [0.1.2](https://github.com/bugu-pro/umijs-plugin-bugu-ui/compare/v0.1.6...v0.1.2) (2022-03-18)
+
+
+### Bug Fixes
+
+* husky ([6ba6f88](https://github.com/bugu-pro/umijs-plugin-bugu-ui/commit/6ba6f8899bf1bf702a439fe7ae4b2e411c4af74d))
+
+
+
 ## [0.1.6](https://github.com/bugu-pro/umijs-plugin-bugu-ui/compare/v0.1.5...v0.1.6) (2022-03-18)
 
 
