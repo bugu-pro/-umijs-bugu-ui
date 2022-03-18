@@ -1,3 +1,12 @@
+## [0.2.4](https://github.com/bugu-pro/umijs-plugin-bugu-ui/compare/v0.2.3...v0.2.4) (2022-03-18)
+
+
+### Features
+
+* name changed ([9acb636](https://github.com/bugu-pro/umijs-plugin-bugu-ui/commit/9acb636685ca3b3c8e41dbbdabf3735e0e0a197e))
+
+
+
 ## [0.2.3](https://github.com/bugu-pro/umijs-plugin-bugu-ui/compare/v0.2.2...v0.2.3) (2022-03-18)
 
 
