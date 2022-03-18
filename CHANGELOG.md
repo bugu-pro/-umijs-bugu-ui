@@ -1,3 +1,12 @@
+## [0.2.1](https://github.com/bugu-pro/umijs-plugin-bugu-ui/compare/v0.2.0...v0.2.1) (2022-03-18)
+
+
+### Features
+
+* build script ([fc892c9](https://github.com/bugu-pro/umijs-plugin-bugu-ui/commit/fc892c9050d7aac1226d34402f2d5400d7ee93c5))
+
+
+
 # [0.2.0](https://github.com/bugu-pro/umijs-plugin-bugu-ui/compare/v0.1.6...v0.2.0) (2022-03-18)
 
 
