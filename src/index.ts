@@ -27,7 +27,6 @@ export default (api: IApi) => {
         require("../package").dependencies.antd
       );
     }
-
     return {
       name: "antd",
       range: getAntdDependency(),
