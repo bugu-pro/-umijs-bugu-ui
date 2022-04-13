@@ -9,6 +9,11 @@ export default (api: IApi) => {
         camel2DashComponentName: false,
         style: true,
       },
+      {
+        libraryName: "bugu-ui-components",
+        camel2DashComponentName: false,
+        style: true,
+      },
     ];
 
     return {
