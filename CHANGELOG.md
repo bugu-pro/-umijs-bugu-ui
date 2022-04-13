@@ -1,3 +1,12 @@
+## [0.2.8](https://github.com/bugu-pro/umijs-plugin-bugu-ui/compare/v0.2.7...v0.2.8) (2022-04-13)
+
+
+### Features
+
+* 支持bugu-ui-components ([10b0b6b](https://github.com/bugu-pro/umijs-plugin-bugu-ui/commit/10b0b6b73ea36217622aef0905a10f3fd4e0b073))
+
+
+
 ## [0.2.7](https://github.com/bugu-pro/umijs-plugin-bugu-ui/compare/v0.2.6...v0.2.7) (2022-04-09)
 
 
